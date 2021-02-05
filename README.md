@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NineSwordsMonster&layout=compact&theme=gruvbox)](https://github.com/NineSwordsMonster)
 
-[![NineSwordsMonster's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NineSwordsMonster&theme=gruvbox)](https://github.com/NineSwordsMonster)
+[comment]: <> ([![NineSwordsMonster's wakatime stats]&#40;https://github-readme-stats.vercel.app/api/wakatime?username=NineSwordsMonster&theme=gruvbox&#41;]&#40;https://github.com/NineSwordsMonster&#41;)
